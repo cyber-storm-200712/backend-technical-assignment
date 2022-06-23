@@ -1,0 +1,25 @@
+{
+  "name": "digikraft_api_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "SET NODE_ENV=DEV&& nodemon index.js",
+    "test": "mocha --timeout 10000 src/test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mocha": "^10.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.16"
+  }
+}

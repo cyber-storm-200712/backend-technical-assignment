@@ -1,0 +1,7 @@
+const ER_BAD_DB_ERROR = 'ER_BAD_DB_ERROR';
+const ER_DB_CREATE_EXISTS = 'ER_DB_CREATE_EXISTS';
+
+module.exports = {
+    ER_BAD_DB_ERROR,
+    ER_DB_CREATE_EXISTS
+}
