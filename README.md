@@ -1,4 +1,4 @@
-# Backend Technical Assignment Test Result
+# Backend Technical Assignment Test Result (hosted on AWS)
 
 ## Example endpoint
 
