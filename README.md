@@ -1,5 +1,5 @@
-# Backend Technical Assignment @Digikraft.io
-This is a technical assignment created to verify your Node.js skills for the purpose of recruitment at Digikraft.io
+# Backend Technical Assignment Test Result
+<p align="center"><img align="center" src="https://github.com/cyber-storm-200712/backend-technical-assignment/blob/main/readme/browser.gif?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 [Indego](https://www.rideindego.com) is Philadelphia's bike-sharing program, with many bike stations in the city.
 
