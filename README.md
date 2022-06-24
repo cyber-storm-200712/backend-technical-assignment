@@ -1,5 +1,15 @@
 # Backend Technical Assignment Test Result
 
+## Example endpoint
+
+```
+http://54.147.247.103/api/v1/stations?at=2022-06-24T01:11:44.709Z
+```
+
+```
+http://54.147.247.103/api/v1/stations/3004?at=2022-06-24T01:11:44.709Z
+```
+
 ## Server start point
 <p align="center"><img align="center" src="https://github.com/cyber-storm-200712/backend-technical-assignment/blob/main/readme/console2.gif?raw=true" style = "width: -webkit-fill-available;"/></p>
 
