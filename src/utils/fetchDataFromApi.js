@@ -5,8 +5,8 @@ const axios = require("axios");
  * @returns Object indego, Object weather
  */
  const fetchStationAndWeather = async () => {
-    const indego = await axios.get(`https://www.rideindego.com/stations/json/`);
-    const weather = await axios.get(`https://api.openweathermap.org/data/2.5/weather?lat=${process.env.LAT}&lon=${process.env.LON}&appid=${process.env.OPENWATHER_API_KEY}`);
+    const indego = await axios.get(`http://example.com`);
+    const weather = await axios.get(`http://example.com`);
     return { indego, weather }
 }
 
